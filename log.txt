@@ -1,0 +1,11 @@
+commit c85b8bd235d8df6c18bbed72c88a654b92d1dc21
+Author: Nana Nyarko <nana.asare@st.vvu.edu.gh>
+Date:   Wed Apr 12 09:50:58 2017 -0700
+
+    comment added and changed little changes to the interfeace.
+
+commit 4cd8728fd0b1e107806bdff51f5b2c24238b5004
+Author: Nana Nyarko <nana.asare@st.vvu.edu.gh>
+Date:   Tue Apr 4 12:50:54 2017 -0700
+
+    My commit
